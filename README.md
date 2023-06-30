@@ -1,2 +1,2 @@
 # RestaurantApp
- Restaurant App Build using MERN
+ Restaurant  Website Using MERN Stack
